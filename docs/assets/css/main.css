@@ -6,6 +6,15 @@
     font-family: CMB;
     src: url(../fonts/cmuserif_bold_macroman/cmunbx-webfont.woff);
   }
+  @font-face {
+    font-family: cmunss;
+    src: url(../fonts/cmunss.ttf);
+  }
+
+  @font-face {
+    font-family: cmunrm;
+    src: url(../fonts/cmunrm.otf);
+  }
 
   body {
     background-image: url('/assets/geometry3.png');
@@ -32,7 +41,7 @@
   } */
 
 .LatexTitle{
-    font-family: CMR;
+    font-family: cmunrm;
     font-size: 40px;
     /* padding-top: 5vh; */
     text-align: center;

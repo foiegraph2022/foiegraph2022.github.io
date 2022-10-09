@@ -19,6 +19,12 @@
   <body>
     <div class="PaperPage">
       <p class="LatexTitle">{{ page.title }}</p>
+      <div align="center">
+      <audio controls style="align-self: center;">
+        <source src="https://upload.wikimedia.org/wikipedia/commons/c/c9/En-us-foie_gras.ogg" type="audio/ogg">
+      Your browser does not support the audio element.
+      </audio>
+      </div>
       {% if page.author %} <p class="LatexName">{{ page.author }}</p> {% endif %}
       {% if page.date %} <p class="LatexDate">{{ page.date }}</p> {% endif %}
       
