@@ -3,32 +3,43 @@
 <!doctype html>
 <html>
   <head>
-    <link rel="stylesheet" href="./assets/css/style.css">
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async
           src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js">
     </script>
+    <!-- Bootstrap, Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- custom styles -->
+    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="shortcut icon" type="image/png" href="./assets/duck_1f986.png">
   </head>
   <body>
-    <div class="Margins">
+    <div class="PaperPage">
       <p class="LatexTitle">{{ page.title }}</p>
       {% if page.author %} <p class="LatexName">{{ page.author }}</p> {% endif %}
       {% if page.date %} <p class="LatexDate">{{ page.date }}</p> {% endif %}
       
-      {% if page.abstract %}<div class="AbstractMargins">
-        <p class="LatexAbstract">Abstract</p>
-        <p class="LatexAbstractText">{{ page.abstract }}</p>
-      </div>{% endif %}
+      <div class="AbstractMargins">
+        <p class="LatexAbstract">TLDR</p>
+        <p class="LatexAbstractText">
+          <a href="#news">[news]</a>
+          <a href="#program">[program]</a>
+          <a href="#registration">[registration]</a>
+          <a href="#venue">[venue]</a>
+        </p>
+      </div>
 
       
       {{ content }}
 
-
     </div>
   </body>
   <footer class="footerSize">
+
+    Hosted on github pages. Based on jekyll theme <a href="https://github.com/Hammie217/LatexJekyll">LatexJekyll</a> and hugo theme <a href="https://papercss-hugo-theme.netlify.app/">PaperCSS</a>
 
   </footer>
 </html>
