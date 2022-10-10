@@ -7,7 +7,7 @@ date: 11-12 November 2022 at UdeM
 
 # News
 
-Nov 9: website is up!
+Oct 9: website is up!
 
 # Program
 
