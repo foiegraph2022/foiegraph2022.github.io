@@ -1,13 +1,14 @@
 ---
 layout: default
-title: FoieGraph 2022 /ˌfwɑː ˈɡɹɑː/
+title: FoieGraph 2022 /ˌfwɑː ˈgræf/
 author: Annual Ontario-Quebec pre-SIGGRAPH workshop
 date: 11-12 November 2022 at UdeM
 ---
 
-# News
-
-Oct 9: website is up!
+|   |   |   |
+|---|---|---|
+|  Oct 9: |   | Website is up! |
+|  Oct 7: |   | Dates and conference title are settled |
 
 # Program
 
