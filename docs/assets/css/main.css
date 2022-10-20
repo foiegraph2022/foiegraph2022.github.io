@@ -1,3 +1,10 @@
 body {
     background-image: url('/assets/geometry3.png');
   }
+
+.icon {
+  display: inline-block;
+  width: 20pt;
+  height: 20pt;
+  overflow: hidden;
+}

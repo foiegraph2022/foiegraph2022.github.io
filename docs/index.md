@@ -1,13 +1,13 @@
 ---
 layout: default
 title: FoieGraph 2022 /ˌfwɑː ˈgræf/
-author: Annual Ontario-Quebec pre-SIGGRAPH workshop
+author: Annual Ontario-Quebec-Maritimes pre-SIGGRAPH Workshop
 date: 11-12 November 2022, Université de Montréal
 ---
 
 <figure class="figure">
   <img src="/assets/olivier-collet-lUzFyIlePCg-unsplash copy.jpeg" class="figure-img img-fluid" alt="...">
-  <figcaption class="figure-caption">FoieGraph 2022 is an invite-only workshop event for students and CG researchers to present their ongoing projects and socialize with their colleagues. Organized by Central-Canadian computer graphics lab to maintain and encourage connections between students and faculty members.</figcaption>
+  <figcaption class="figure-caption">FoieGraph 2022 is an invite-only workshop event for students and CG researchers to present their ongoing projects and socialize with their colleagues. Organized by Central-Canadian computer graphics labs to maintain and encourage connections between students and faculty members.</figcaption>
 </figure>
 
 
@@ -91,7 +91,12 @@ Registration forms are sent on Oct 21. Registration deadline: Nov 7
   <div class="col-4">
   Pavillon André-Aisenstadt <br>
   Université de Montréal<br>
-  2920, chemin de la tour, Montréal
+  2920, chemin de la tour, Montréal<br>
+  <img
+  src="/assets/Montreal_Metro.svg"
+  alt="stm logo"
+  class="icon" />
+  <a href="https://www.stm.info/fr/infos/reseaux/metro/universite-de-montreal" style="font-size: 10pt;">Métro Université-de-Montréal </a>
   </div>
   <div class="col-8">
   <div style="width: 100%"><iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Pavillon%20Andr%C3%A9-Aisenstadt,%20university,%20Montreal,%20Canada+(Pavillon%20Andr%C3%A9-Aisenstadt)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">area maps</a></iframe></div>
