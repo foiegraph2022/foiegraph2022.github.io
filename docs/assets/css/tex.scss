@@ -27,17 +27,20 @@
     // font-size: 40px;
     /* padding-top: 5vh; */
     text-align: center;
-    margin-bottom: 20px;
+    // margin-bottom: 2vh;
+}
+
+.LatexSubtitle{
+    text-align: center;
+    margin-bottom: 3vh;
 }
 
 .LatexName{
-    font-family: CMR;
     // font-size: 22px;
     text-align: center;
     margin-bottom: 13px;
 }
 .LatexDate{
-    font-family: CMR;
     // font-size: 20px;
     text-align: center;
     margin-top: 13px;
@@ -45,7 +48,6 @@
 }
 
 .LatexAbstract{
-    font-family: CMB;
     font-weight: bold;
     font-size: 25px;
     text-align: center;
@@ -54,7 +56,6 @@
 
 .LatexAbstractText{
     margin-top:10px;
-    font-family: CMR;
     // font-size: 21px;
     text-align: center;
     /* text-align: justify; */
@@ -111,7 +112,7 @@ p{
 }
 
 /* h1{
-    font-family: CMB;
+    font-family: cmunbx;
     font-size: 33px;
     text-align: Left;
     margin-top: 13px;
@@ -119,7 +120,7 @@ p{
 } */
 
 .Section{
-    font-family: CMB;
+    font-family: cmunbx;
     font-size: 33px;
     text-align: Left;
     margin-top: 13px;
@@ -128,7 +129,7 @@ p{
 
 
 .SubSection{
-    font-family: CMB;
+    font-family: cmunbx;
     font-size: 29px;
     text-align: Left;
     margin-top: 13px;
@@ -136,7 +137,7 @@ p{
 }
 
 .BodyText{
-    font-family: CMR;
+    font-family: cmunrm;
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;
@@ -146,7 +147,7 @@ p{
 }
 
 .BodyText2Col{
-    font-family: CMR;
+    font-family: cmunrm;
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;
@@ -156,7 +157,7 @@ p{
 }
 
 .BodyText3Col{
-    font-family: CMR;
+    font-family: cmunrm;
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;

@@ -18,16 +18,12 @@
         @return calc(#{$min-font-size} + ( ( #{strip-unit($max-font-size)} - #{strip-unit($min-font-size)} ) * (100vw - #{$min-screen-width}) / (#{strip-unit($max-screen-width)} - #{strip-unit($min-screen-width)}))); }
 
   @font-face {
-    font-family: CMR;
-    src: url(../fonts/cmunrm.otf);
-  }
-  @font-face {
-    font-family: CMB;
+    font-family: cmunbx;
     src: url(../fonts/cmunbx.otf);
   }
   @font-face {
-    font-family: cmunss;
-    src: url(../fonts/cmunss.ttf);
+    font-family: cmuntt;
+    src: url(../fonts/cmuntt.otf);
   }
 
   @font-face {
@@ -37,7 +33,7 @@
 
   body {
     // font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-    font-family: CMR;
+    font-family: cmunrm;
     font-size: font-size-lock(30px, 20px, 480px, 1200px);
     line-height: 1.5;
     color: #24292e;
@@ -45,20 +41,32 @@
   }
 
   .LatexTitle{
-    font-family: CMR;
+    font-family: cmunrm;
     // font-size: font-size-lock(3vw, 5vw, 480px, 1200px);
     font-size: calc(2rem + 1.5vw);
   }
 
+  .LatexSubtitle{
+    font-family: cmunrm;
+    font-size: 1.3em;
+  }
+
   .LatexDate{
+    font-family: cmunrm;
     font-size: 1.3em;
   }
 
   .LatexName{
+    font-family: cmunrm;
     font-size: 1.3em;
   }
 
+  .LatexAbstract{
+    font-family: cmunbx;
+  }
+
   .LatexAbstractText{
+    font-family: cmunrm;
     font-size: 1.3em;
   }
 
@@ -76,12 +84,12 @@
   }
 
   h1{
-    font-family: CMR;
+    font-family: cmunrm;
     font-size: calc(14pt + 1.5vw);
   }
 
   h2{
-    font-family: CMR;
+    font-family: cmunrm;
     font-size: calc(12pt + 1.2vw);
   }
   

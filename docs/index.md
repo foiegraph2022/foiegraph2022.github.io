@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FoieGraph 2022 /ˌfwɑː ˈgræf/
+title: FoieGraph 2022
 author: Annual Ontario-Quebec-Maritimes pre-SIGGRAPH Workshop
 date: 11-12 November 2022, Université de Montréal
 ---
