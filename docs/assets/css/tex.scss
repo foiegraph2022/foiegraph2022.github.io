@@ -24,8 +24,7 @@
   } */
 
 .LatexTitle{
-    font-family: cmunrm;
-    font-size: 40px;
+    // font-size: 40px;
     /* padding-top: 5vh; */
     text-align: center;
     margin-bottom: 20px;
@@ -33,16 +32,16 @@
 
 .LatexName{
     font-family: CMR;
-    font-size: 22px;
+    // font-size: 22px;
     text-align: center;
     margin-bottom: 13px;
 }
 .LatexDate{
     font-family: CMR;
-    font-size: 20px;
+    // font-size: 20px;
     text-align: center;
     margin-top: 13px;
-    margin-bottom: 45px;
+    margin-bottom: 5px;
 }
 
 .LatexAbstract{
@@ -56,7 +55,7 @@
 .LatexAbstractText{
     margin-top:10px;
     font-family: CMR;
-    font-size: 21px;
+    // font-size: 21px;
     text-align: center;
     /* text-align: justify; */
     text-indent: 20px
@@ -79,6 +78,17 @@
     padding-top: 5vh;
 }
 
+  @media only screen and (max-width:992px) {
+    .PaperPage {
+      width: 90%
+    }
+  }
+  @media only screen and (max-width:480px) {
+    .PaperPage {
+      width: 95%
+    }
+  } 
+
 .AbstractMargins{
     padding-left: 6%;
     width: 88%;
@@ -86,13 +96,12 @@
 }
 
 h1{
-    font-family: CMB;
-    font-size: 33px;
-    margin-top: 13px;
+    // font-size: 33px;
+    margin-top: 5vh;
 }
 
 p{
-    font-size: 23px;
+    // font-size: 23px;
     /* text-align: Left; */
     margin: 0px;
     /* margin-top: 13px;
@@ -169,6 +178,10 @@ p{
     padding-right: 25%;
 }
 
+.tableheader{
+    border-bottom: solid 1px black;
+}
+
 .tiny{
     font-size: 8px;
 }
@@ -178,7 +191,7 @@ p{
 }
 
 .footnotesize{
-    font-size: 13px;
+    font-size: 10pt;
 }
 
 .small{

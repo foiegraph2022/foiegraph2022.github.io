@@ -19,11 +19,11 @@
 
   @font-face {
     font-family: CMR;
-    src: url(../fonts/cmuserif_roman_macroman/cmunrm-webfont.woff);
+    src: url(../fonts/cmunrm.otf);
   }
   @font-face {
     font-family: CMB;
-    src: url(../fonts/cmuserif_bold_macroman/cmunbx-webfont.woff);
+    src: url(../fonts/cmunbx.otf);
   }
   @font-face {
     font-family: cmunss;
@@ -45,13 +45,58 @@
   }
 
   .LatexTitle{
-    font-size: font-size-lock(5vw, 3vw, 480px, 1200px);
+    font-family: CMR;
+    // font-size: font-size-lock(3vw, 5vw, 480px, 1200px);
+    font-size: calc(2rem + 1.5vw);
+  }
+
+  .LatexDate{
+    font-size: 1.3em;
+  }
+
+  .LatexName{
+    font-size: 1.3em;
+  }
+
+  .LatexAbstractText{
+    font-size: 1.3em;
+  }
+
+  .p{
+    font-size: font-size-lock(2vw, 3vw, 480px, 1200px);
+  }
+
+  body{
+    font-size: 14pt;
+  }
+  @media only screen and (max-width:992px) {
+    body {
+      font-size: 20pt;
+    }
+  }
+
+  h1{
+    font-family: CMR;
+    font-size: calc(14pt + 1.5vw);
+  }
+
+  h2{
+    font-family: CMR;
+    font-size: calc(12pt + 1.2vw);
   }
   
   a {
     color: #0366d6;
   }
+
+  table a{
+    color: black;
+  }
   
+  .footerSize{
+    font-size: 10pt;
+  }
+
   code,
   pre {
     font-family: Menlo, Consolas, "Consolas for Powerline", "Courier New", Courier, monospace;
