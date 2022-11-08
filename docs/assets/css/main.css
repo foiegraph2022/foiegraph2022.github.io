@@ -8,3 +8,8 @@ body {
   height: 20pt;
   overflow: hidden;
 }
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: hsla(246, 87%, 91%, 0.1);
+ }
