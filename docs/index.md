@@ -159,7 +159,7 @@ Registration forms are sent on Oct 21. Registration deadline: Nov 7
 <tr>
 <td style="vertical-align: top;">Volunteers:</td>
 <td>&nbsp;</td>
-<td>Emma Gallifet, Ivan Puhachov, Julien Bassac, Karl-Étienne Bolduc, Maria Myronova, Simon Carret, Yinchu Liu</td>
+<td>Emma Gallifet, Ivan Puhachov, Julien Bassac, Karl-Étienne Bolduc, Mariia Myronova, Simon Carret, Yinchu Liu</td>
 </tr>
 </tbody>
 </table>
