@@ -28,7 +28,7 @@ Workshop will be held in person at [Pavillon André-Aisenstadt](https://goo.gl/m
 Students have a chance to give a short talk about their work (10-12 minutes), which will be followed by Q&A (3-5 minutes). 
 
 <br>
-For remote participants translation in Zoom will be available. Student talks will **not** be recorded.
+Remote participants can join via Zoom. Links for Zoom will be distributed via email to the registered participants. Student talks will **not** be recorded.
 <br>
 
 <table class="table table-striped">
