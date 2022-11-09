@@ -27,6 +27,10 @@ Workshop will be held in person at [Pavillon André-Aisenstadt](https://goo.gl/m
 <br>
 Students have a chance to give a short talk about their work (10-12 minutes), which will be followed by Q&A (3-5 minutes). 
 
+<br>
+For remote participants translation in Zoom will be available. Student talks will **not** be recorded.
+<br>
+
 <table class="table table-striped">
   <thead>
     <tr>
@@ -64,19 +68,19 @@ Students have a chance to give a short talk about their work (10-12 minutes), wh
     <tr>
       <th scope="row">2 pm - 2:30 pm</th>
       <td class="w-40 text-center">Eitan Grinspun, "Bad Talk"</td>
-      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a></td>
+      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row">2:45 pm - 3:15 pm</th>
       <td class="w-40 text-center">Faculty Panel <br> Interview with Derek Nowrouzezahrai
       </td>
-      <td class="w-20r"> <a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a></td>
+      <td class="w-20r"> <a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row">3:25 pm - 3:50 pm</th>
       <td class="w-40 text-center">Sheldon Andrews, “Collaborating with SMEs: Insights, and pitfalls”
       </td>
-      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a></td>
+      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
   </tbody>
 </table>
@@ -109,28 +113,28 @@ Students have a chance to give a short talk about their work (10-12 minutes), wh
       <th scope="row" class="w-20">2 pm - 3 pm</th>
       <td class="w-40 text-center">Keynote<br>Damien Rioux-Lavoie (Ubisoft)<br>“La Forge, Torch, and other stories.”
       </td>
-      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a></td>
+      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row" class="w-20">3:10 pm - 3:30 pm</th>
       <td class="w-40 text-center">Round table<br>“Remote work, Lab culture, and other topics”<br>Moderator: Pierre Poulin
       </td>
-      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a></td>
+      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row" class="w-20">3:40 pm - 4:30 pm</th>
       <td class="w-40 text-center">Student talks and Q&A:<br>Hossein Feiz<br>Otman Benchekroun</td>
-      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a></td>
+      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row" class="w-20">4:40 pm am - 5 pm</th>
       <td class="w-40 text-center">Paul Kry, TBD</td>
-      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a></td>
+      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row" class="w-20">5 pm - 5:10 pm</th>
       <td class="w-40 text-center">Closing ceremony</td>
-      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a></td>
+      <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
   </tbody>
 </table>
