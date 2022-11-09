@@ -56,8 +56,8 @@ Remote participants can join via Zoom. Links for Zoom will be distributed via em
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1177</a>, Zoom</td>
     </tr>
     <tr>
-      <th scope="row" class="w-20">11 am - 12:15 pm</th>
-      <td class="w-40 text-center"> Ryusuke Sugimoto,<br> Mariia Myronova,<br> Ivan Puhachov</td>
+      <th scope="row" class="w-20">11 am - 11:50 am</th>
+      <td class="w-40 text-center"> Ryusuke Sugimoto,<br> Mariia Myronova</td>
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1177</a>, Zoom</td>
     </tr>
     <tr>
@@ -67,18 +67,24 @@ Remote participants can join via Zoom. Links for Zoom will be distributed via em
     </tr>
     <tr>
       <th scope="row">2 pm - 2:30 pm</th>
-      <td class="w-40 text-center">Eitan Grinspun, "Bad Talk"</td>
+      <td class="w-40 text-center">Prof. Eitan Grinspun, "Bad Talk"</td>
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row">2:45 pm - 3:15 pm</th>
-      <td class="w-40 text-center">Faculty Panel <br> Interview with Derek Nowrouzezahrai
+      <td class="w-40 text-center">Faculty Panel <br> Interview with Prof. Derek Nowrouzezahrai
       </td>
       <td class="w-20r"> <a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
-      <th scope="row">3:25 pm - 3:50 pm</th>
-      <td class="w-40 text-center">Sheldon Andrews, “Collaborating with SMEs: Insights, and pitfalls”
+      <th scope="row">3:25 pm - 4:15 pm</th>
+      <td class="w-40 text-center">Student talks and Q&A<br> Ivan Puhachov <br> Nathan King
+      </td>
+      <td class="w-20r"> <a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
+    </tr>
+    <tr>
+      <th scope="row">4:30 pm - 4:50 pm</th>
+      <td class="w-40 text-center">Prof. Sheldon Andrews, “Collaborating with SMEs: Insights, and pitfalls”
       </td>
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
@@ -117,18 +123,18 @@ Remote participants can join via Zoom. Links for Zoom will be distributed via em
     </tr>
     <tr>
       <th scope="row" class="w-20">3:10 pm - 3:30 pm</th>
-      <td class="w-40 text-center">Round table<br>“Remote work, Lab culture, and other topics”<br>Moderator: Pierre Poulin
+      <td class="w-40 text-center">Round table<br>“Remote work, Lab culture, and other topics”<br>Moderator: Prof. Pierre Poulin
       </td>
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row" class="w-20">3:40 pm - 4:30 pm</th>
-      <td class="w-40 text-center">Student talks and Q&A:<br>Hossein Feiz<br>Otman Benchekroun</td>
+      <td class="w-40 text-center">Student talks and Q&A:<br>Nasir Khalid<br>Otman Benchekroun</td>
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
       <th scope="row" class="w-20">4:40 pm am - 5 pm</th>
-      <td class="w-40 text-center">Paul Kry, TBD</td>
+      <td class="w-40 text-center">Prof. Paul Kry, TBD</td>
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
