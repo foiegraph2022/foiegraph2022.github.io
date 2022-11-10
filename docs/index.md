@@ -133,7 +133,7 @@ Remote participants can join via Zoom. Links for Zoom will be distributed via em
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
     <tr>
-      <th scope="row" class="w-20">4:40 pm am - 5 pm</th>
+      <th scope="row" class="w-20">4:40 pm - 5 pm</th>
       <td class="w-40 text-center">Prof. Paul Kry, “Writing Papers that People Can Read”</td>
       <td class="w-20r"><a href="https://goo.gl/maps/U2hRH9Z3RXM2aGEBA">AA1355</a>, Zoom</td>
     </tr>
