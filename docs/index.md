@@ -14,7 +14,7 @@ date: 11-12 November 2022, Université de Montréal
 
 |   |   |   |
 |---|---|---|
-|  Nov 8: |   | Program is announced|
+|  Nov 9: |   | Program, zoom, discord are out. Check your emails!|
 |  Nov 7: |   | Registration is closed|
 |  Oct 21: |   | Registration forms sent (deadline: Nov 7)|
 |  Oct 14: |   | Pre-registrations are out |
@@ -166,6 +166,11 @@ Registration forms are sent on Oct 21. Registration deadline: Nov 7
 <td style="vertical-align: top;">Volunteers:</td>
 <td>&nbsp;</td>
 <td>Emma Gallifet, Ivan Puhachov, Julien Bassac, Karl-Étienne Bolduc, Mariia Myronova, Simon Carret, Yinchu Liu</td>
+</tr>
+<tr>
+<td>Hybrid mode setup:&nbsp;</td>
+<td>&nbsp;</td>
+<td>Adrien Gruson</td>
 </tr>
 </tbody>
 </table>
