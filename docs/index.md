@@ -14,6 +14,8 @@ date: 11-12 November 2022, Université de Montréal
 
 |   |   |   |
 |---|---|---|
+|  Nov 11: |   | Workshop is live!|
+|  Nov 11: |   | **Autodesk** is sponsoring our event |
 |  Nov 9: |   | Program, zoom, discord are out. Check your emails!|
 |  Nov 7: |   | Registration is closed|
 |  Oct 21: |   | Registration forms sent (deadline: Nov 7)|
@@ -174,6 +176,18 @@ Registration forms are sent on Oct 21. Registration deadline: Nov 7
 </tr>
 </tbody>
 </table>
+
+# Sponsors
+<div class="row">
+  <div class="col-4">
+    <figure class="figure">
+        <img src="/assets/autodesk-logo-1.svg" class="figure-img img-fluid rounded" alt="...">
+    </figure>
+  </div>
+  <div class="col-8">
+  
+  </div>
+</div>
 
 # Venue
 
